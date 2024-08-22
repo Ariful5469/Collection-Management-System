@@ -1,0 +1,173 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - MyCollection</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link id="theme-style" rel="stylesheet" href="~/css/light.css" />
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 20px;
+        }
+
+            nav ul {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+                display: flex;
+            }
+
+                nav ul li {
+                    margin-right: 20px;
+                }
+
+                    nav ul li a {
+                        color: white;
+                        text-decoration: none;
+                        font-weight: bold;
+                    }
+
+                        nav ul li a:hover {
+                            text-decoration: underline;
+                        }
+
+            nav form {
+                display: flex;
+                align-items: center;
+            }
+
+                nav form input[type="text"] {
+                    padding: 8px;
+                    border-radius: 5px;
+                    border: 1px solid #ddd;
+                    margin-right: 5px;
+                    font-size: 1rem;
+                }
+
+                nav form button {
+                    padding: 8px 15px;
+                    background-color: #fff;
+                    color: #4CAF50;
+                    border: none;
+                    border-radius: 5px;
+                    cursor: pointer;
+                    font-weight: bold;
+                }
+
+                    nav form button:hover {
+                        background-color: #ddd;
+                    }
+
+        .hero {
+            background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rIWOLYDbsI8K3ejTng0HhX8N_ubwmKoVa-NeGKksNgaitY_YYSoYK9e19QDI24XC9SY&usqp=CAU') no-repeat center center;
+            background-size: cover;
+            height: 300px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+            margin-bottom: 20px;
+        }
+
+            .hero h1 {
+                font-size: 3rem;
+                margin: 0;
+            }
+
+        main {
+            flex: 1;
+            padding: 20px;
+            background-color: #f4f4f4;
+            border-radius: 8px;
+            margin: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+            footer p {
+                margin: 0;
+            }
+
+        button {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div>
+                <a href="/" style="color: white; font-size: 1.5rem; font-weight: bold;">MyCollection</a>
+            </div>
+            <ul>
+                <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li><a asp-area="" asp-controller="Post" asp-action="Create">Create Post</a></li>
+                    <li><a asp-area="" asp-controller="Account" asp-action="Logout">Logout</a></li>
+                }
+                else
+                {
+                    <li><a asp-area="" asp-controller="Account" asp-action="Login">Login</a></li>
+                    <li><a asp-area="" asp-controller="Account" asp-action="Register">Register</a></li>
+                }
+                @if (User.IsInRole("Admin"))
+                {
+                    <li><a asp-area="" asp-controller="Admin" asp-action="Index">Admin</a></li>
+                }
+            </ul>
+            <form asp-controller="Home" asp-action="Search" method="get">
+                <input type="text" name="query" placeholder="Search..." />
+                <button type="submit">Search</button>
+            </form>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Welcome to MyCollection</h1>
+    </section>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer>
+        <p>&copy; 2024 MyCollection. All rights reserved.</p>
+    </footer>
+
+    <script src="~/js/theme.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+﻿@model List<Registration_and_authentication.Models.ApplicationUser>
+
+<form asp-action="Block" method="post">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Select</th>
+                <th>Email</th>
+                <th>Status</th>
+                <th>Last Login Time</th>
+                <th>Registration Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td><input type="checkbox" name="ids" value="@user.Id" /></td>
+                    <td>@user.Email</td>
+                    <td>@user.Status</td>
+                    <td>@user.LastLoginTime</td>
+                    <td>@user.RegistrationTime</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button type="submit" class="btn btn-warning">Block</button>
+</form>
+
+<form asp-action="Unblock" method="post">
+    <button type="submit" class="btn btn-success">Unblock</button>
+</form>
+
+<form asp-action="Delete" method="post">
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>

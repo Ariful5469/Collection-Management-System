@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\task002\task002\obj\Debug\net8.0\task002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\task002\task002\obj\Debug\net8.0\task002.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\task002\task002\obj\Debug\net8.0\task002.AssemblyInfo.cs
+C:\Users\USER\source\repos\task002\task002\obj\Debug\net8.0\task002.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\task002\task002\obj\Debug\net8.0\task002.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\task002\task002\bin\Debug\net8.0\task002.exe
+C:\Users\USER\source\repos\task002\task002\bin\Debug\net8.0\task002.deps.json
+C:\Users\USER\source\repos\task002\task002\bin\Debug\net8.0\task002.runtimeconfig.json
+C:\Users\USER\source\repos\task002\task002\bin\Debug\net8.0\task002.dll
+C:\Users\USER\source\repos\task002\task002\bin\Debug\net8.0\task002.pdb
+C:\Users\USER\source\repos\task002\task002\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\USER\source\repos\task002\task002\obj\Debug\net8.0\task002.csproj.Up2Date
+C:\Users\USER\source\repos\task002\task002\obj\Debug\net8.0\task002.dll
+C:\Users\USER\source\repos\task002\task002\obj\Debug\net8.0\refint\task002.dll
+C:\Users\USER\source\repos\task002\task002\obj\Debug\net8.0\task002.pdb
+C:\Users\USER\source\repos\task002\task002\obj\Debug\net8.0\task002.genruntimeconfig.cache
+C:\Users\USER\source\repos\task002\task002\obj\Debug\net8.0\ref\task002.dll

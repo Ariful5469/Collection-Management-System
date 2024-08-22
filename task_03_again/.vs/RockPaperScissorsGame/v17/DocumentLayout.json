@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\task_03_again\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{089FDE92-86E5-47F3-992A-FDB1C4465841}|task_03_again\\RockPaperScissorsGame.csproj|c:\\users\\user\\source\\repos\\task_03_again\\task_03_again\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089FDE92-86E5-47F3-992A-FDB1C4465841}|task_03_again\\RockPaperScissorsGame.csproj|solutionrelative:task_03_again\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089FDE92-86E5-47F3-992A-FDB1C4465841}|task_03_again\\RockPaperScissorsGame.csproj|c:\\users\\user\\source\\repos\\task_03_again\\task_03_again\\rockpaperscissorsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089FDE92-86E5-47F3-992A-FDB1C4465841}|task_03_again\\RockPaperScissorsGame.csproj|solutionrelative:task_03_again\\rockpaperscissorsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089FDE92-86E5-47F3-992A-FDB1C4465841}|task_03_again\\RockPaperScissorsGame.csproj|c:\\users\\user\\source\\repos\\task_03_again\\task_03_again\\helptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089FDE92-86E5-47F3-992A-FDB1C4465841}|task_03_again\\RockPaperScissorsGame.csproj|solutionrelative:task_03_again\\helptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089FDE92-86E5-47F3-992A-FDB1C4465841}|task_03_again\\RockPaperScissorsGame.csproj|c:\\users\\user\\source\\repos\\task_03_again\\task_03_again\\movelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089FDE92-86E5-47F3-992A-FDB1C4465841}|task_03_again\\RockPaperScissorsGame.csproj|solutionrelative:task_03_again\\movelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089FDE92-86E5-47F3-992A-FDB1C4465841}|task_03_again\\RockPaperScissorsGame.csproj|c:\\users\\user\\source\\repos\\task_03_again\\task_03_again\\hmacgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089FDE92-86E5-47F3-992A-FDB1C4465841}|task_03_again\\RockPaperScissorsGame.csproj|solutionrelative:task_03_again\\hmacgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelpTable.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\task_03_again\\task_03_again\\HelpTable.cs",
+              "RelativeDocumentMoniker": "task_03_again\\HelpTable.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\task_03_again\\task_03_again\\HelpTable.cs",
+              "RelativeToolTip": "task_03_again\\HelpTable.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:52:10.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RockPaperScissorsGame.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\task_03_again\\task_03_again\\RockPaperScissorsGame.cs",
+              "RelativeDocumentMoniker": "task_03_again\\RockPaperScissorsGame.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\task_03_again\\task_03_again\\RockPaperScissorsGame.cs",
+              "RelativeToolTip": "task_03_again\\RockPaperScissorsGame.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:52:38.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\task_03_again\\task_03_again\\Program.cs",
+              "RelativeDocumentMoniker": "task_03_again\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\task_03_again\\task_03_again\\Program.cs",
+              "RelativeToolTip": "task_03_again\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:46:59.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveLogic.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\task_03_again\\task_03_again\\MoveLogic.cs",
+              "RelativeDocumentMoniker": "task_03_again\\MoveLogic.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\task_03_again\\task_03_again\\MoveLogic.cs",
+              "RelativeToolTip": "task_03_again\\MoveLogic.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:51:43.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HMACGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\task_03_again\\task_03_again\\HMACGenerator.cs",
+              "RelativeDocumentMoniker": "task_03_again\\HMACGenerator.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\task_03_again\\task_03_again\\HMACGenerator.cs",
+              "RelativeToolTip": "task_03_again\\HMACGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:51:08.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

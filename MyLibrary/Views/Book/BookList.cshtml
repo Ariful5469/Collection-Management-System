@@ -1,0 +1,47 @@
+﻿@model IEnumerable<MyLibrary.Models.Book>
+
+@{
+    ViewData["Title"] = "Book List";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Published Date</th>
+            <th>ISBN</th>
+            <th>Description</th>
+            <th>Image</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.PublishedDate.ToShortDateString()</td>
+                <td>@book.ISBN</td>
+                <td>@book.Description</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(book.ImagePath))
+                    {
+                        <img src="@Url.Content("~/uploads/" + book.ImagePath)" alt="@book.Title" style="height: 100px; object-fit: cover;" />
+                    }
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", "Book", new { id = book.Id })" class="btn btn-warning btn-sm">Edit</a>
+                    <form method="post" action="@Url.Action("Delete", "Book", new { id = book.Id })" style="display:inline;">
+                        <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this book?');">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("AddProduct", "Book")" class="btn btn-primary">Add New Book</a>

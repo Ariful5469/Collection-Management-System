@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|c:\\users\\user\\source\\repos\\authentication\\authentication\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|solutionrelative:authentication\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|c:\\users\\user\\source\\repos\\authentication\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|solutionrelative:authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|c:\\users\\user\\source\\repos\\authentication\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|solutionrelative:authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|c:\\users\\user\\source\\repos\\authentication\\authentication\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|solutionrelative:authentication\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|c:\\users\\user\\source\\repos\\authentication\\authentication\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|solutionrelative:authentication\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|c:\\users\\user\\source\\repos\\authentication\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|c:\\users\\user\\source\\repos\\authentication\\authentication\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|solutionrelative:authentication\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|c:\\users\\user\\source\\repos\\authentication\\authentication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|solutionrelative:authentication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|c:\\users\\user\\source\\repos\\authentication\\authentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|c:\\users\\user\\source\\repos\\authentication\\authentication\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{624C8C38-5AC4-4688-8D9D-D28A1DE37F36}|Authentication\\Authentication.csproj|solutionrelative:authentication\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:29:41.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Authentication\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\Global.asax.cs",
+              "RelativeToolTip": "Authentication\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:09:20.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:08:14.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\AccountController.cs",
+              "RelativeDocumentMoniker": "Authentication\\AccountController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\AccountController.cs",
+              "RelativeToolTip": "Authentication\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:07:56.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Authentication\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\ApplicationUser.cs",
+              "RelativeToolTip": "Authentication\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:05:55.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\RoleInitializer.cs",
+              "RelativeDocumentMoniker": "Authentication\\RoleInitializer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\RoleInitializer.cs",
+              "RelativeToolTip": "Authentication\\RoleInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:07:22.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "Authentication\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\IdentityConfig.cs",
+              "RelativeToolTip": "Authentication\\IdentityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:06:19.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Authentication\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:05:29.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\Startup.cs",
+              "RelativeDocumentMoniker": "Authentication\\Startup.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\Startup.cs",
+              "RelativeToolTip": "Authentication\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:04:54.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Authentication\\Authentication\\_Layout.cshtml",
+              "RelativeToolTip": "Authentication\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T18:08:57.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

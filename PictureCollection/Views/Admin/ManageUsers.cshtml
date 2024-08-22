@@ -1,0 +1,48 @@
+﻿@model IEnumerable<User>
+
+<h2>Manage Users</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Blocked</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.UserName</td>
+                <td>@user.Email</td>
+                <td>@user.Role</td>
+                <td>@(user.IsBlocked ? "Yes" : "No")</td>
+                <td>
+                    <form asp-action="BlockUser" method="post">
+                        <input type="hidden" name="id" value="@user.Id" />
+                        <button type="submit" class="btn btn-warning">Block</button>
+                    </form>
+                    <form asp-action="UnblockUser" method="post">
+                        <input type="hidden" name="id" value="@user.Id" />
+                        <button type="submit" class="btn btn-success">Unblock</button>
+                    </form>
+                    <form asp-action="PromoteToAdmin" method="post">
+                        <input type="hidden" name="id" value="@user.Id" />
+                        <button type="submit" class="btn btn-primary">Make Admin</button>
+                    </form>
+                    <form asp-action="DemoteFromAdmin" method="post">
+                        <input type="hidden" name="id" value="@user.Id" />
+                        <button type="submit" class="btn btn-secondary">Remove Admin</button>
+                    </form>
+                    <form asp-action="DeleteUser" method="post">
+                        <input type="hidden" name="id" value="@user.Id" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

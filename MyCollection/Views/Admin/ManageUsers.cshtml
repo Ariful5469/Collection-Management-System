@@ -1,0 +1,38 @@
+﻿@model IEnumerable<MyCollection.Models.User>
+
+<h2>Manage Users</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Blocked</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Username</td>
+                <td>@user.Email</td>
+                <td>@user.Role</td>
+                <td>@user.IsBlocked</td>
+                <td>
+                    <a asp-action="BlockUser" asp-route-id="@user.Id">
+                        @if (user.IsBlocked)
+                        {
+                            <button>Unblock</button>
+                        }
+                        else
+                        {
+                            <button>Block</button>
+                        }
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

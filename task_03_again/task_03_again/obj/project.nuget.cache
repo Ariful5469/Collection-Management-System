@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJp1ffLZaf0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\task_03_again\\task_03_again\\RockPaperScissorsGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

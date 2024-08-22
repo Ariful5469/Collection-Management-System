@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Newlearn\Newlearn\obj\Debug\net6.0\Newlearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Newlearn\Newlearn\obj\Debug\net6.0\Newlearn.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Newlearn\Newlearn\obj\Debug\net6.0\Newlearn.AssemblyInfo.cs
+C:\Users\USER\source\repos\Newlearn\Newlearn\obj\Debug\net6.0\Newlearn.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Newlearn\Newlearn\bin\Debug\net6.0\Newlearn.exe
+C:\Users\USER\source\repos\Newlearn\Newlearn\bin\Debug\net6.0\Newlearn.deps.json
+C:\Users\USER\source\repos\Newlearn\Newlearn\bin\Debug\net6.0\Newlearn.runtimeconfig.json
+C:\Users\USER\source\repos\Newlearn\Newlearn\bin\Debug\net6.0\Newlearn.dll
+C:\Users\USER\source\repos\Newlearn\Newlearn\bin\Debug\net6.0\Newlearn.pdb
+C:\Users\USER\source\repos\Newlearn\Newlearn\obj\Debug\net6.0\Newlearn.dll
+C:\Users\USER\source\repos\Newlearn\Newlearn\obj\Debug\net6.0\refint\Newlearn.dll
+C:\Users\USER\source\repos\Newlearn\Newlearn\obj\Debug\net6.0\Newlearn.pdb
+C:\Users\USER\source\repos\Newlearn\Newlearn\obj\Debug\net6.0\Newlearn.genruntimeconfig.cache
+C:\Users\USER\source\repos\Newlearn\Newlearn\obj\Debug\net6.0\ref\Newlearn.dll

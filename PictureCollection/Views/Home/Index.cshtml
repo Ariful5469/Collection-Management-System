@@ -1,0 +1,30 @@
+﻿@model IEnumerable<PictureCollection.Models.Post>
+
+<h2>Recent Posts</h2>
+
+@if (Model != null && Model.Any())
+{
+    <ul>
+        @foreach (var post in Model)
+        {
+            <li>
+                <h3>
+                    <a asp-action="Details" asp-controller="Post" asp-route-id="@post.Id">@post.Title</a>
+                </h3>
+                @if (!string.IsNullOrEmpty(post.Description))
+                {
+                    <p>@post.Description</p>
+                }
+                else
+                {
+                    <p>No description available.</p>
+                }
+                <p>Created at: @post.CreatedAt.ToString("MMMM dd, yyyy hh:mm tt")</p>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No posts available.</p>
+}

@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\task_03_again\task_03_again\bin\Debug\net8.0\task_03_again.exe
+C:\Users\USER\source\repos\task_03_again\task_03_again\bin\Debug\net8.0\task_03_again.deps.json
+C:\Users\USER\source\repos\task_03_again\task_03_again\bin\Debug\net8.0\task_03_again.runtimeconfig.json
+C:\Users\USER\source\repos\task_03_again\task_03_again\bin\Debug\net8.0\task_03_again.dll
+C:\Users\USER\source\repos\task_03_again\task_03_again\bin\Debug\net8.0\task_03_again.pdb
+C:\Users\USER\source\repos\task_03_again\task_03_again\bin\Debug\net8.0\ConsoleTables.dll
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\task_03_again.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\task_03_again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\task_03_again.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\task_03_again.AssemblyInfo.cs
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\task_03_again.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\task_03_.2DE21965.Up2Date
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\task_03_again.dll
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\refint\task_03_again.dll
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\task_03_again.pdb
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\task_03_again.genruntimeconfig.cache
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\ref\task_03_again.dll

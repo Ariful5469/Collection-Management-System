@@ -1,0 +1,12 @@
+﻿@model IEnumerable<MyCollection.Models.Post>
+
+<h2>Recent Posts</h2>
+
+@foreach (var post in Model)
+{
+    <div>
+        <h3>@post.Title</h3>
+        <p>@post.Content</p>
+        <p><small>@post.CreatedAt.ToString("g")</small></p>
+    </div>
+}

@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.exe
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.deps.json
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.runtimeconfig.json
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.dll
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.pdb
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleA.A9EA4B6A.Up2Date
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.dll
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\refint\ConsoleApp7.dll
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.pdb
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\USER\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ref\ConsoleApp7.dll

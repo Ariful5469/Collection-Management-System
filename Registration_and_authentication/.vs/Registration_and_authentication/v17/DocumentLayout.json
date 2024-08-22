@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\views\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\views\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\views\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\views\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|c:\\users\\user\\source\\repos\\registration_and_authentication\\registration_and_authentication\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C05E0B-8F71-40C8-8D23-42FC63918291}|Registration_and_authentication\\Registration_and_authentication.csproj|solutionrelative:registration_and_authentication\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Registration_and_authentication\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:40:38.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Registration_and_authentication\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:41:14.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Registration_and_authentication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:40:10.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Program.cs",
+              "RelativeToolTip": "Registration_and_authentication\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:47:03.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Registration_and_authentication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T10:41:02.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Registration_and_authentication\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:39:42.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Startup.cs",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Startup.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Startup.cs",
+              "RelativeToolTip": "Registration_and_authentication\\Startup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAABBwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:44:08.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\appsettings.json",
+              "RelativeToolTip": "Registration_and_authentication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T10:44:23.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Views\\Login.cshtml",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Views\\Login.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Views\\Login.cshtml",
+              "RelativeToolTip": "Registration_and_authentication\\Views\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T10:42:59.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Views\\Register.cshtml",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Views\\Register.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Views\\Register.cshtml",
+              "RelativeToolTip": "Registration_and_authentication\\Views\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T10:42:40.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Registration_and_authentication\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:40:11.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Registration_and_authentication\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T10:44:38.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Views\\Users.cshtml",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Views\\Users.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Views\\Users.cshtml",
+              "RelativeToolTip": "Registration_and_authentication\\Views\\Users.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T10:43:24.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Registration_and_authentication\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAABBwC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:42:18.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Registration_and_authentication\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Registration_and_authentication\\Registration_and_authentication\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Registration_and_authentication\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:39:06.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

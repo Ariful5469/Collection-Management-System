@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\ght\ght\bin\Debug\net8.0\ght.exe
+C:\Users\USER\source\repos\ght\ght\bin\Debug\net8.0\ght.deps.json
+C:\Users\USER\source\repos\ght\ght\bin\Debug\net8.0\ght.runtimeconfig.json
+C:\Users\USER\source\repos\ght\ght\bin\Debug\net8.0\ght.dll
+C:\Users\USER\source\repos\ght\ght\bin\Debug\net8.0\ght.pdb
+C:\Users\USER\source\repos\ght\ght\obj\Debug\net8.0\ght.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ght\ght\obj\Debug\net8.0\ght.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ght\ght\obj\Debug\net8.0\ght.AssemblyInfo.cs
+C:\Users\USER\source\repos\ght\ght\obj\Debug\net8.0\ght.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ght\ght\obj\Debug\net8.0\ght.dll
+C:\Users\USER\source\repos\ght\ght\obj\Debug\net8.0\refint\ght.dll
+C:\Users\USER\source\repos\ght\ght\obj\Debug\net8.0\ght.pdb
+C:\Users\USER\source\repos\ght\ght\obj\Debug\net8.0\ght.genruntimeconfig.cache
+C:\Users\USER\source\repos\ght\ght\obj\Debug\net8.0\ref\ght.dll

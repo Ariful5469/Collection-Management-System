@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\task_03_again\task_03_again\bin\Debug\net8.0\RockPaperScissorsGame.exe
+C:\Users\USER\source\repos\task_03_again\task_03_again\bin\Debug\net8.0\RockPaperScissorsGame.deps.json
+C:\Users\USER\source\repos\task_03_again\task_03_again\bin\Debug\net8.0\RockPaperScissorsGame.runtimeconfig.json
+C:\Users\USER\source\repos\task_03_again\task_03_again\bin\Debug\net8.0\RockPaperScissorsGame.dll
+C:\Users\USER\source\repos\task_03_again\task_03_again\bin\Debug\net8.0\RockPaperScissorsGame.pdb
+C:\Users\USER\source\repos\task_03_again\task_03_again\bin\Debug\net8.0\ConsoleTables.dll
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\RockPaperScissorsGame.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\RockPaperScissorsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\RockPaperScissorsGame.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\RockPaperScissorsGame.AssemblyInfo.cs
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\RockPape.D9FA89CA.Up2Date
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\RockPaperScissorsGame.dll
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\refint\RockPaperScissorsGame.dll
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\RockPaperScissorsGame.pdb
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\RockPaperScissorsGame.genruntimeconfig.cache
+C:\Users\USER\source\repos\task_03_again\task_03_again\obj\Debug\net8.0\ref\RockPaperScissorsGame.dll

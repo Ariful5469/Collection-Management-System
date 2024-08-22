@@ -1,0 +1,28 @@
+﻿@model IEnumerable<PictureCollection.Models.Post>
+
+<h2>Your Posts</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var post in Model)
+        {
+            <tr>
+                <td>@post.Title</td>
+                <td>@post.Description</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(post.ImageUrl))
+                    {
+                        <img src="@post.ImageUrl" alt="@post.Title" style="max-width: 100px;" />
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

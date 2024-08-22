@@ -1,0 +1,9 @@
+﻿@model Post
+
+<h2>@Model.Title</h2>
+
+<p>@Model.Description</p>
+@if (!string.IsNullOrEmpty(Model.ImageUrl))
+{
+    <img src="@Model.ImageUrl" alt="@Model.Title" style="width: 300px;" />
+}

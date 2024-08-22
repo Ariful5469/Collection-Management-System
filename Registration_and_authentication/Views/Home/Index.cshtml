@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Registration_and_authentication.Models.User>
+
+<h2>Welcome to Registration and Authentication System</h2>
+
+<p>
+    <!-- Index.cshtml -->
+<p>
+    <a asp-controller="User" asp-action="Register">Register</a> |
+    <a asp-controller="User" asp-action="Login">Login</a>
+</p>
+
+    @Html.ActionLink("View Users", "Users", "User")
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Last Login Time</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Name</td>
+                    <td>@user.Email</td>
+                    <td>@user.LastLoginTime</td>
+                    <td>@user.Status</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">No users found.</td>
+            </tr>
+        }
+    </tbody>
+</table>

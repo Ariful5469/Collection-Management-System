@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ProjectFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4D26A5-1EE6-4F42-A950-4418CB41EF39}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\user\\source\\repos\\projectfinal\\projectfinal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4D26A5-1EE6-4F42-A950-4418CB41EF39}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4D26A5-1EE6-4F42-A950-4418CB41EF39}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\user\\source\\repos\\projectfinal\\projectfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4D26A5-1EE6-4F42-A950-4418CB41EF39}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4D26A5-1EE6-4F42-A950-4418CB41EF39}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\user\\source\\repos\\projectfinal\\projectfinal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C4D26A5-1EE6-4F42-A950-4418CB41EF39}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4D26A5-1EE6-4F42-A950-4418CB41EF39}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\user\\source\\repos\\projectfinal\\projectfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C4D26A5-1EE6-4F42-A950-4418CB41EF39}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ProjectFinal\\ProjectFinal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectFinal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProjectFinal\\ProjectFinal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjectFinal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:10:53.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ProjectFinal\\ProjectFinal\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProjectFinal\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProjectFinal\\ProjectFinal\\appsettings.Development.json",
+              "RelativeToolTip": "ProjectFinal\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T08:02:20.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ProjectFinal\\ProjectFinal\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProjectFinal\\ProjectFinal\\Program.cs",
+              "RelativeToolTip": "ProjectFinal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:02:16.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ProjectFinal\\ProjectFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProjectFinal\\ProjectFinal\\appsettings.json",
+              "RelativeToolTip": "ProjectFinal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T07:35:00.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
