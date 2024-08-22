@@ -1,0 +1,34 @@
+﻿@model IEnumerable<MyLibrary.Models.Book>
+
+<h1>Manage Books</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Published Date</th>
+            <th>ISBN</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.PublishedDate.ToShortDateString()</td>
+                <td>@book.ISBN</td>
+                <td>@book.Description</td>
+                <td>
+                    <a asp-action="EditBook" asp-route-id="@book.Id">Edit</a>
+                    <form asp-action="DeleteBook" asp-route-id="@book.Id" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

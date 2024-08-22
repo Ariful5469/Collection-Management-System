@@ -1,0 +1,113 @@
+﻿@model IEnumerable<MyLibrary.Models.Book>
+
+@{
+    ViewData["Title"] = "BookList";
+    var searchQuery = ViewData["SearchQuery"] as string ?? string.Empty;
+    var selectedTag = ViewData["SelectedTag"] as string ?? string.Empty;
+}
+
+<h1>BookList</h1>
+
+<!-- Search Form -->
+<form id="searchForm" method="get" asp-action="BookList1">
+    <div class="mb-3">
+        <label for="search" class="form-label">Search</label>
+        <input type="text" id="search" name="searchQuery" class="form-control" value="@searchQuery" placeholder="Search by title or description" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<!-- Tag Filter -->
+<div class="my-3">
+    <h4>Filter by Tag:</h4>
+    <div>
+        @foreach (var tag in new[] { "Poem", "Novel", "Story", "Horror", "Travelling", "Technology", "Romantic" })
+        {
+            <a href="#" onclick="setTagAndSubmit('@tag')"
+               class="badge @(selectedTag == tag ? "bg-primary text-white" : "bg-secondary text-white")"
+               style="cursor:pointer;">
+                @tag
+            </a>
+            <span class="mx-2"></span>
+        }
+    </div>
+</div>
+
+<!-- Grid Layout for Books -->
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="@Url.Content("~/uploads/" + item.ImagePath)" class="card-img-top" style="height:200px;object-fit:cover;" alt="@item.Title" />
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Title</h5>
+                        <p class="card-text">@item.Description</p>
+                        <a href="@Url.Action("Details", "Book", new { id = item.Id })" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<!-- Pagination -->
+<!-- Pagination -->
+<div class="my-3">
+    @if (ViewData["TotalPages"] != null && ViewData["CurrentPage"] != null)
+    {
+        var totalPages = (int)ViewData["TotalPages"];
+        var currentPage = (int)ViewData["CurrentPage"];
+        <ul class="pagination pagination-lg">
+            <li class="page-item @(currentPage == 1 ? "disabled" : "")">
+                <a class="page-link" asp-action="BookList1"
+                   asp-route-page="@(currentPage - 1)"
+                   asp-route-searchQuery="@searchQuery"
+                   asp-route-selectedTag="@selectedTag">Previous</a>
+            </li>
+            @for (var i = 1; i <= totalPages; i++)
+            {
+                <li class="page-item @(i == currentPage ? "active" : "")">
+                    <a class="page-link" asp-action="BookList1"
+                       asp-route-page="@i"
+                       asp-route-searchQuery="@searchQuery"
+                       asp-route-selectedTag="@selectedTag">@i</a>
+                </li>
+            }
+            <li class="page-item @(currentPage == totalPages ? "disabled" : "")">
+                <a class="page-link" asp-action="BookList1"
+                   asp-route-page="@(currentPage + 1)"
+                   asp-route-searchQuery="@searchQuery"
+                   asp-route-selectedTag="@selectedTag">Next</a>
+            </li>
+        </ul>
+    }
+</div>
+
+<!-- Custom CSS for pagination size -->
+<style>
+    .pagination-lg .page-link {
+        padding: 0.75rem 1.25rem;
+        font-size: 1.25rem;
+        line-height: 1.5;
+    }
+
+    .pagination-lg .page-item {
+        margin: 0.25rem;
+    }
+</style>
+
+
+<script>
+    function setTagAndSubmit(tag) {
+        var searchInput = document.getElementById('search');
+        var form = document.getElementById('searchForm');
+
+        // Set the search input value to the clicked tag
+        searchInput.value = tag;
+
+        // Submit the form
+        form.submit();
+    }
+</script>
