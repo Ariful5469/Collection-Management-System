@@ -14,7 +14,7 @@ The application is designed as a Book Collection App with a focus on user authen
 3. **Admin Controls:**
    - **User Management:** Admins have the ability to manage users, including deleting, blocking, and unblocking accounts.
 
-Besides , searching,Tag searching,Role Based Authentication and Authorization,Image Uploading and viewing,mode(dark,light),language(bangla+English) etc tecnologies uses this project.
+Besides , searching,Tag searching,Pagination,Role Based Authentication and Authorization,Image Uploading and viewing,mode(dark,light),language(bangla+English) etc tecnologies uses this project.
 
 try to improve this project.
 
