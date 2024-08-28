@@ -19,3 +19,5 @@ Besides , searching,Tag searching,Pagination,Role Based Authentication and Autho
 try to improve this project.
 
 This setup ensures a seamless and interactive experience for both users and administrators while maintaining efficient control over content and user management.
+
+["Almost the full project is found in MyLibrary.jar."]
